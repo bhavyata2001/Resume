@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">resume</string>
+    <string name="name">Bhavyata\nKharchaliya</string>
+    <string name="passion_name"><![CDATA[Android Developer & Designer]]></string>
+    <string name="self">Looking for a challenging position in a growing organization where I am utilize my skills.Designing and developing advanced applications for the Android platform.</string>
+    <string name="education">Education</string>
+    <string name="degree_info">Bachelor of Technology (B.Tech), Computer Science </string>
+    <string name="diplo_info">Diploma, Computer Diploma</string>
+    <string name="edu_info3">XII - Distinct with first class</string>
+    <string name="edu_info4">X - Distinct with 75.55 PR</string>
+    <string name="degree_info2">Dr. Subhash Technical Campus,Junagadh</string>
+    <string name="degree_info3">2019 - 2022</string>
+    <string name="diplo_info2">2016 - 2019</string>
+    <string name="diplo_info3">CGPA: 8.52/10</string>
+    <string name="intership">Working as a freelancer in Sky 9 IT Craft company for Android App Development.</string>
+    <string name="project1">Develop  ATOZ CARRER application for helping parents and students of their carrer.</string>
+    <string name="project2">Develop CODEMET application where developer and user can put their application or websites source code and also download from one platform.</string>
+    <string name="project3">Develop a CALCULATOR application for basic regular use for all.</string>
+    <string name="project4">Develop a LAW SYSTEM application where client can take a appointment of lawyer and lawyer gives a satisfied response.</string>
+    <string name="project5">Develop a MENTOR MATE application where student have online platform to solve the queary from a particular mentor.if student not understand with answers then student can one to one meeting with mentor.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="gmail"><a href="https://github.com/bhavyata2001">kharchaliyabhavyata@gmail.com</a></string>
+    <string name="linkedin"><a href="https://www.linkedin.com/in/kharchaliya-b-74a1481a4/">https://www.linkedin.com/in/kharchaliya-b-74a1481a4/</a></string>
+    <string name="github"><a href="https://github.com/bhavyata2001">https://github.com/bhavyata2001</a></string>
+    <string name="certificate_detail">In this multiple courses are involve like Android Applicatopn Development(Showcasing Best Performance), Cloud Comupting, Digital Marketing, Frontend Fundamnetals, Jquary, SQL, Interview Skill, SSIP(Hackathon), Disigner For Developer.</string>
+</resources>
